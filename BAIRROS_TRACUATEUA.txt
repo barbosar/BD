@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Tracuateua; CENTRO
+Tracuateua; ZONA RURAL

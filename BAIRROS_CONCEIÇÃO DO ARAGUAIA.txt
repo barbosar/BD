@@ -1,0 +1,19 @@
+MUNICÍPIO; BAIRROS
+Conceição do Araguaia; CANUDINHO
+Conceição do Araguaia; GIOVAMIRA
+Conceição do Araguaia; JARDIM PETRÓPOLIS
+Conceição do Araguaia; CENTRO
+Conceição do Araguaia; CAPELINHA
+Conceição do Araguaia; OLARIA NORTE
+Conceição do Araguaia; SÃO LUIZ I
+Conceição do Araguaia; SÃO LUIZ II
+Conceição do Araguaia; TANCREDO NEVES
+Conceição do Araguaia; EMERÊNCIO
+Conceição do Araguaia; MORADA DO SOL
+Conceição do Araguaia; DOS PESCADORES
+Conceição do Araguaia; NOVO ARAGUAIA
+Conceição do Araguaia; VILA NOVA
+Conceição do Araguaia; VILA REAL
+Conceição do Araguaia; UNIVERSITÁRIO
+Conceição do Araguaia; VILA AMIZADE
+Conceição do Araguaia; CRUZEIRO

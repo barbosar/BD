@@ -1,0 +1,32 @@
+CIDADE; BAIRROS
+Tucuruí; ALVORADA
+Tucuruí; ALTO ALEGRE
+Tucuruí; BEIRA RIO
+Tucuruí; BELA VISTA
+Tucuruí; CENTRO
+Tucuruí; COHAB
+Tucuruí; COLINAS
+Tucuruí; COLORADO
+Tucuruí; NOVA CONQUISTA
+Tucuruí; DEUS É GRANDE
+Tucuruí; GETAT
+Tucuruí; JAQUEIRA
+Tucuruí; LIBERDADE
+Tucuruí; MANGAL
+Tucuruí; MARILUCY
+Tucuruí; MATINHA
+Tucuruí; NOVA MATINHA
+Tucuruí; PARAVOA
+Tucuruí; PIONEIRA
+Tucuruí; SANTA ISABEL
+Tucuruí; SANTA MÔNICA
+Tucuruí; SÃO FRANCISCO
+Tucuruí; SÃO SEBASTIÃO
+Tucuruí; DISTRITO INDUSTRIAL
+Tucuruí; TERRA PROMETIDA
+Tucuruí; TRANSCAMETÁ
+Tucuruí; VILA PERMANENTE
+Tucuruí; PALMARES
+Tucuruí; PARAVOA
+Tucuruí; DISTRITO INDUSTRIAL
+

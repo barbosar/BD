@@ -1,0 +1,3 @@
+Municípios; Bairros
+Oeiras do Pará; CENTRO
+Oeiras do Pará; ZONA RURAL

@@ -1,0 +1,23 @@
+Município; Bairros
+Abaetetuba; CENTRO
+Abaetetuba; SÃO LOURENÇO
+Abaetetuba; ALGODOAL
+Abaetetuba; SANTA ROSA
+Abaetetuba; SÃO SEBASTIÃO
+Abaetetuba; MULTIRÃO
+Abaetetuba; AVIAÇÃO
+Abaetetuba; ANGÉLICA
+Abaetetuba; CAFEZAL
+Abaetetuba; SÃO JOÃO
+Abaetetuba; CRISTO REDENTOR
+Abaetetuba; FRANCILÂNDIA
+Abaetetuba; SANTA CLARA
+Abaetetuba; SÃO JOSÉ
+Abaetetuba; CASTANHAL
+Abaetetuba; JARUMÃ
+Abaetetuba; BOSQUE
+Abaetetuba; RESIDENCIAL ABAETETUBA
+Abaetetuba; RESIDENCIAL GREEN GROOVER
+Abaetetuba; RESIDENCIAL ANGÉLICA
+Abaetetuba; RESIDENCIAL ANGELIN
+Abaetetuba; RESIDENCIAL SANTA CLARA

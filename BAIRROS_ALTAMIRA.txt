@@ -1,0 +1,20 @@
+MUNICÍPIO; BAIRROS
+Altamira; JARDIM UIRAPURU
+Altamira; CENTRO
+Altamira; PREMEM
+Altamira; BRASÍLIA
+Altamira; BOA ESPERANÇA
+Altamira; ESPLANADA dO XINGU
+Altamira; JARDIM ALTAMIRA
+Altamira; SUDAM I
+Altamira; SUDAM II
+Altamira; NOVA ALTAMIRA
+Altamira; IBIZA
+Altamira; LIBERDADE
+Altamira; JARDIM INDEPENDENTE I
+Altamira; JARDIM INDEPENDENTE II
+Altamira; MULTIRÃO
+Altamira; BELA VISTA
+Altamira; ALBERTO SOARES
+Altamira; APARECIDA
+Altamira; COLINAS

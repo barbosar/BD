@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+São Caetano de Odivelas; CENTRO
+São Caetano de Odivelas; ZONA RURAL

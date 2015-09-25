@@ -1,0 +1,6 @@
+Municipio; Bairros
+Terra Santa; CENTRO
+Terra Santa; JUVENIL
+Terra Santa; SÃO FRANCISCO
+Terra Santa; APARECIDA
+Terra Santa; SANTA CLARA

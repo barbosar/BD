@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Xinguara; CENTRO
+Xinguara; ZONA RURAL

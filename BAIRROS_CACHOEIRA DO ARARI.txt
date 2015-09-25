@@ -1,0 +1,3 @@
+MUNICÍPIOS; BAIRROS
+Cachoeira do Arari; CENTRO
+Cachoeira do Arari; ZONA RURAL

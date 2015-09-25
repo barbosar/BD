@@ -1,0 +1,74 @@
+Município; Bairros
+Parauapebas; ALTAMIRA
+Parauapebas; AMAZÔNIA
+Parauapebas; APONEMA
+Parauapebas; BAIRRO DA PAZ
+Parauapebas; BAIRRO DOS MINÉRIOS
+Parauapebas; BELA VISTA
+Parauapebas; BEIRA RIO I
+Parauapebas; BEIRA RIO II
+Parauapebas; BETÂNIA
+Parauapebas; CAETANÓPOLIS
+Parauapebas; CARAJÁS
+Parauapebas; CASAS POPULARES I
+Parauapebas; CASAS POPULARES II
+Parauapebas; CIDADE JARDIM
+Parauapebas; CIDADE NOVA
+Parauapebas; CINCO ESTRELAS
+Parauapebas; CHÁCARA DA LUA
+Parauapebas; CHÁCARA DAS ESTRELAS
+Parauapebas; CHÁCARA DO SOL
+Parauapebas; ESPERANÇA
+Parauapebas; GUANABARA
+Parauapebas; GUANABARA II
+Parauapebas; IPIRANGA
+Parauapebas; IPIRANGA II
+Parauapebas; JARDIM AMÉRICA
+Parauapebas; JARDIM AMÉRICA II
+Parauapebas; JARDIM CANADÁ
+Parauapebas; JARDIM CANADÁ II
+Parauapebas; JARDIM TROPICAL
+Parauapebas; JARDIM TROPICAL II
+Parauapebas; KARAJÁS SUL
+Parauapebas; LIBERDADE I
+Parauapebas; LIBERDADE II
+Parauapebas; LOTEAMENTO IPÊ
+Parauapebas; MARANHÃO
+Parauapebas; MARANHÃO II
+Parauapebas; MONTES CLAROS
+Parauapebas; NOVA CARAJÁS
+Parauapebas; NOVA VIDA
+Parauapebas; NOVA VIDA II
+Parauapebas; NOVO BRASIL
+Parauapebas; NOVO HORIZONTE
+Parauapebas; NOVO TEMPO
+Parauapebas; NOVO VIVER
+Parauapebas; PALMARES II
+Parauapebas; PALMARES Sul
+Parauapebas; PANORAMA
+Parauapebas; PARQUE DAS NAÇÕES
+Parauapebas; PARQUE DAS NAÇÕES II
+Parauapebas; POLO MOVEREIRO
+Parauapebas; PRIMAVERA
+Parauapebas; RESIDENCIAL ALTO BOA VISTA
+Parauapebas; RESIDENCIAL BAMBUÍ
+Parauapebas; RESIDENCIAL BRASÍLIA
+Parauapebas; RESIDENCIAL MORADA NOVA
+Parauapebas; RESIDENCIAL MARTINI
+Parauapebas; ReSIDENCIAL PORTO SEGURO
+Parauapebas; RESIDENCIAL RIO VERDE
+Parauapebas; RESIDENCIAL VALE DO SOL
+Parauapebas; RESIDENCIAL VILA NOVA
+Parauapebas; RESIDENCIAL VISTA DO VALE
+Parauapebas; RIO VERDE
+Parauapebas; SÃO JOSÉ
+Parauapebas; SÃO LUCAS
+Parauapebas; SÃO LUCAS II
+Parauapebas; SÃO LUÍS
+Parauapebas; SERRA AZUL
+Parauapebas; VALE DOS CARAJÁS
+Parauapebas; VIDA NOVA
+Parauapebas; VIDA NOVA II
+Parauapebas; VILA RICA
+Parauapebas; VIVER BEM PARAUAPEBAS
+Parauapebas; UNIÃO

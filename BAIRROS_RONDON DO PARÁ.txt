@@ -1,0 +1,15 @@
+Municípios; Bairros
+Rondon do Pará; CENTRO
+Rondon do Pará; JARDIM GUANABARA
+Rondon do Pará; JARDIM UBERABA
+Rondon do Pará; JARDIM GUSMÃO
+Rondon do Pará; PARQUE DA BANDEIRA
+Rondon do Pará; JADERLÂNDIA
+Rondon do Pará; RECANTO AZUL
+Rondon do Pará; RECANTINHO
+Rondon do Pará; PARQUE ELITE
+Rondon do Pará; PARQUE BELA VISTA
+Rondon do Pará; JARDIM SÃO MIGUEL
+Rondon do Pará; NOVO HORIZONTE
+Rondon do Pará; PARQUE SÃO JOSÉ
+Rondon do Pará; MIRANDA

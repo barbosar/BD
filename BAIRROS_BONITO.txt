@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Bonito; CENTRO
+Bonito; ZONA RURAL

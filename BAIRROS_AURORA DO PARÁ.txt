@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Aurora do Norte; CENTRO
+Aurora do Norte; ZONA RURAL

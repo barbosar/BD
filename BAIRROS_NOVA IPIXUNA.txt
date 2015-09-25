@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Nova Ipixuna; CENTRO
+Nova Ipixuna; ZONA RURAL

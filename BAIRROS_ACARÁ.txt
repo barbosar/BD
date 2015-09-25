@@ -1,0 +1,8 @@
+MUNICÍPIO; BAIRROS
+Acará; CACOAL 
+Acará; CENTRO 
+Acará; CIDADE NOVA
+Acará; INTERIOR 
+Acará; SÃO JUDAS 
+Acará; TADEU 
+Acará; TUTUBA 

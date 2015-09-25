@@ -1,0 +1,20 @@
+MunicÌpios; Bairros
+Santa Isabel do Pará; CENTRO
+Santa Isabel do Pará; JARDIM DAS ACÁCIAS
+Santa Isabel do Pará; JARDIM TÓKIO
+Santa Isabel do Pará; JARDIM PARAÍSO
+Santa Isabel do Pará; JARDIM MIRAÍ
+Santa Isabel do Pará; JARDIM FLORESTAL
+Santa Isabel do Pará; SANTA LÚCIA I 
+Santa Isabel do Pará; SANTA LÚCIA II
+Santa Isabel do Pará; TRIÂNGULO
+Santa Isabel do Pará; NOVA DIVINÉIA
+Santa Isabel do Pará; NOVO HORIZONTE
+Santa Isabel do Pará; BAIRRO NOVO
+Santa Isabel do Pará; SÃO RAIMUNDO
+Santa Isabel do Pará; SANTA RITA DE CASSIA/PIÇARREIRA
+Santa Isabel do Pará; NOVA BRASÍLIA
+Santa Isabel do Pará; SAGRADA FAMÍLIA
+Santa Isabel do Pará; JUAZEIRO
+Santa Isabel do Pará; JURUNAS
+Santa Isabel do Pará; MOEMA

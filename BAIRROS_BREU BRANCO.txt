@@ -1,0 +1,10 @@
+MUNICÍPIOS; BAIRROS
+Breu Branco; CONTINENTAL
+Breu Branco; CENTRO
+Breu Branco; NOVO PARAÍSO
+Breu Branco; NOVO HORIZONTE
+Breu Branco; BELA VISTA
+Breu Branco; LIBERDADE
+Breu Branco; JAPONÊS
+Breu Branco; CONSQUISTA
+Breu Branco; FELICIDADE

@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Bom Jesus; CENTRO
+Bom Jesus; ZONA RURAL

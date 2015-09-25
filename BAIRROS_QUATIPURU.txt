@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Quatipuru; CENTRO
+Quatipuru; ZONA RURAL

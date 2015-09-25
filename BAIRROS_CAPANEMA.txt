@@ -1,0 +1,31 @@
+Município; Bairros
+Capanema; AREIA BRANCA
+Capanema; CAIXA D'ÁGUA
+Capanema; CAÍQUE
+Capanema; CAMPINHO
+Capanema; CENTRO
+Capanema; DOM JOÃO VI
+Capanema; FÁTIMA
+Capanema; GUARA SUCO
+Capanema; GARRAFÃO
+Capanema; IGREJINHA
+Capanema; INUSSÚM
+Capanema; MOTOCROSS
+Capanema; MULTIRÃO
+Capanema; NAZARÉ
+Capanema; OLIVEIRA BRITO
+Capanema; PEDREIRA
+Capanema; PRIMEIRA
+Capanema; SAMAMBAIA
+Capanema; SANTA CRUZ
+Capanema; SANTA LUZIA
+Capanema; SÃO CRISTÓVÃO
+Capanema; SÃO PEDRO E SÃO PAULO
+Capanema; SÃO JOSÉ
+Capanema; SÃO PIO X
+Capanema; TANCREDO NEVES
+Capanema; TRÊS DE MAIO
+Capanema; POVOADO DO IGARAPÉ APARA
+Capanema; POVOADO DE MONTE ALEGRE (CURRAL VELHO)
+Capanema; VILA MIRASSELVAS
+Capanema; VILA TAUARÍ

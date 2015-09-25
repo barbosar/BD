@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Anajás; CENTRO
+Anajás; ZONA RURAL

@@ -1,0 +1,3 @@
+Municipios; Bairros
+Palestina do Pará; CENTRO
+Palestina do Pará; ZONA RURAL

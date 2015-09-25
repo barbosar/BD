@@ -1,0 +1,3 @@
+Município; Bairros
+Capitão Poço; CENTRO
+Capitão Poço; ZONA RURAL

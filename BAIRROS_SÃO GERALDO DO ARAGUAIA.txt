@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+São Geraldo do Araguaia; CENTRO
+São Geraldo do Araguaia; ZONA RURAL

@@ -1,0 +1,56 @@
+Municípios; Bairros
+Santarém; CENTRO
+Santarém; AEROPORTO VELHO
+Santarém; ALDEIA
+Santarém; ALVORADA
+Santarém; APARECIDA
+Santarém; ALTER-DO-CHÃO (VILA)
+Santarém; AMPARO
+Santarém; ÁREA VERDE
+Santarém; BOIM (VILA)
+Santarém; CANARAZAL
+Santarém; CAMBUQUIRA
+Santarém; CIPOAL (VILA)
+Santarém; COHAB
+Santarém; CONQUISTA
+Santarém; DIAMANTINO
+Santarém; ELCIONE BARBALHO
+Santarém; ESPERANÇA
+Santarém; FÁTIMA
+Santarém; FLORESTA
+Santarém; INTERVENTÓRIA
+Santarém; IPANEMA
+Santarém; JADERLÂNDIA
+Santarém; JARDIM SANTARÉM
+Santarém; JUTAÍ
+Santarém; LIVRAMENTO
+Santarém; LIBERDADE
+Santarém; LAGUINHO
+Santarém; MAICÁ
+Santarém; MAPIRI
+Santarém; MARARÚ (VILA)
+Santarém; MARACANÃ
+Santarém; MARACANÃ I
+Santarém; MATINHA
+Santarém; NOVA VITÓRIA
+Santarém; NOVA REPÚBLICA
+Santarém; NOVO HORIZONTE
+Santarém; PÉROLA DO MAICÁ
+Santarém; PRAINHA
+Santarém; RODAGEM
+Santarém; SALÉ
+Santarém; SANTANA
+Santarém; SANTA CLARA
+Santarém; SANTARENZINHO
+Santarém; SANTÍSSIMO
+Santarém; SANTO ANDRÉ
+Santarém; SÃO CRISTOVÃO
+Santarém; SÃO FRANCISCO
+Santarém; SÃO JOSÉ OPERÁRIO
+Santarém; TABOCAL (VILA)
+Santarém; URUARÁ
+Santarém; URUMARI
+Santarém; URUMANDUBA
+Santarém; VIGIA
+Santarém; VITÓRIA-RÉGIA
+Santarém; PLANALTO SÃO JOSÉ

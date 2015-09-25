@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Juruti; CENTRO
+Juruti; ZONA RURAL

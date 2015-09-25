@@ -1,0 +1,27 @@
+MUNICÍPIO; BAIRROS
+Ananindeua; 40 HORAS
+Ananindeua; ÁGUAS BRANCAS
+Ananindeua; ÁGUAS LINDAS
+Ananindeua; ATALAIA
+Ananindeua; ANITA GEROSA (AGC)
+Ananindeua; CAJUÍ
+Ananindeua; CENTRO
+Ananindeua; CIDADE NOVA
+Ananindeua; COQUEIRO
+Ananindeua; CURUÇAMBA
+Ananindeua; DISTRITO INDUSTRIAL
+Ananindeua; DOM BOSCO
+Ananindeua; DONA ANA
+Ananindeua; GUAJARÁ
+Ananindeua; GUANABARA
+Ananindeua; HELIOLÂNDIA
+Ananindeua; ICUÍ
+Ananindeua; JADERLÂNDIA
+Ananindeua; JIBÓIA BRANCA
+Ananindeua; JÚLIA SEFFER
+Ananindeua; LARANJEIRA
+Ananindeua; MAGUARÍ
+Ananindeua; PAAR
+Ananindeua; PROVIDÊNCIA
+Ananindeua; SAMAMBAIA
+Ananindeua; SANTANA DO AURÁ

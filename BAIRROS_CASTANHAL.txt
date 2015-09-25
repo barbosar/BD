@@ -1,0 +1,40 @@
+Município: Bairros
+Castanhal; BAIRRO NOVO
+Castanhal; BETÂNIA
+Castanhal; BOM JESUS
+Castanhal; CAIÇARA
+Castanhal; CARIRI
+Castanhal; CENTRO
+Castanhal; COHAB
+Castanhal; CONJUNTO YPÊS
+Castanhal; CRISTO
+Castanhal; ESTRELA
+Castanhal; FLORESTAL
+Castanhal; FONTE BOA
+Castanhal; HELIOLÂNDIA
+Castanhal; IANETAMA
+Castanhal; IMPERADOR
+Castanhal; IMPERIAL
+Castanhal; JADERLÂNDIA
+Castanhal; JARDIM DAS ACÁCIAS
+Castanhal; JARDIM CASTANHAL
+Castanhal; JARDIM DAS FLORES
+Castanhal; NOVA OLINDA
+Castanhal; NOVA CAIÇARA
+Castanhal; NOVO ESTRELA
+Castanhal; PANTANAL
+Castanhal; PIRAPORA
+Castanhal; PROPIRA
+Castanhal; ROUXINOL
+Castanhal; SALES JARDIM
+Castanhal; SALGADINHO
+Castanhal; SANTA CATARINA
+Castanhal; SANTA HELENA
+Castanhal; SANTA LÍDIA (MILAGRE)
+Castanhal; SÃO JOSÉ
+Castanhal; SAUDADE I
+Castanhal; SAUDADE II
+Castanhal; TITANLÂNDIA
+Castanhal; TÓKIO
+Castanhal; VALE DO SOL
+Castanhal; VILA DO APEÚ

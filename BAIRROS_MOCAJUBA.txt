@@ -1,0 +1,16 @@
+Município; Bairros
+Mocajuba; ARRAIAL
+Mocajuba; CIDADE NOVA I
+Mocajuba; CIDADE NOVA II
+Mocajuba; CENTRO
+Mocajuba; CAMPINA
+Mocajuba; CAIXA D'ÁGUA
+Mocajuba; FAZENDA
+Mocajuba; MONTE ALEGRE
+Mocajuba; NOVO I
+Mocajuba; NOVO II
+Mocajuba; NOVO HORIZONTE
+Mocajuba; PEDREIRA
+Mocajuba; PRANCHINHA
+Mocajuba; YPÊ AMARELO
+Mocajuba; YPÊ AMARELO II

@@ -1,0 +1,3 @@
+Municípios; Bairros
+Primavera; CENTRO
+Primavera; ZONA RURAL

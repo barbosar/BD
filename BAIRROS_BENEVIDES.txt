@@ -1,0 +1,17 @@
+MUNICÍPIO; BAIRROS
+Benevides; CENTRO DE BENEVIDES
+Benevides; BEGOLÂNDIA 
+Benevides; LIBERDADE 
+Benevides; AGRINESP 
+Benevides; CANUTAMA 
+Benevides; MADRE TERESA 
+Benevides; CAJUEIRO 
+Benevides; MARROCOS 
+Benevides; MÉDICE 
+Benevides; INDEPENDENTE 
+Benevides; SANTA ROSA 
+Benevides; MAGUARI 
+Benevides; PARICATUBA 
+Benevides; TAIASSUI
+Benevides; BENFICA
+Benevides; MURININ

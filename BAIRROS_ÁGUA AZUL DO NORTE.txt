@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Água Azul do Norte; CENTRO
+Água Azul do Norte; ZONA RURAL

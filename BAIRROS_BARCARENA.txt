@@ -1,0 +1,11 @@
+MUNICÍPIO; BAIRROS
+Barcarena; JARDIM CABANO
+Barcarena; LARANJAL
+Barcarena; NOVO HORIZONTE
+Barcarena; NOVO PARAÍSO
+Barcarena; PIONEIRO
+Barcarena; SÃO FRANCISCO
+Barcarena; TANGAMANDÁPIO
+Barcarena; VILA DOS CABANOS
+Barcarena; VILA DO CONDE
+Barcarena; VILA DE ITUPANEMA

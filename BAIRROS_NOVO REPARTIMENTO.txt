@@ -1,0 +1,9 @@
+MUNICÍPIO; BAIRROS
+Novo Repartimento; NOVO REPARTIMENTO
+Novo Repartimento; PARQUE VALE DE SOL
+Novo Repartimento; PARQUE VILA TUCURUÍ
+Novo Repartimento; PARQUE ESPIGÃO
+Novo Repartimento; PARQUE VILA NOVA
+Novo Repartimento; PARQUE DE LADEIRA
+Novo Repartimento; PARQUE MORUMBI
+Novo Repartimento; PARQUE UIRAPUR

@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+São Félix do Xingu; CENTRO
+São Félix do Xingu; ZONA RURAL

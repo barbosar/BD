@@ -1,0 +1,9 @@
+MunicÌpios; Bairros
+Óbidos; CENTRO
+Óbidos; LOURDES
+Óbidos; CIDADE NOVA
+Óbidos; SANTA TEREZINHA
+Óbidos; FÁTIMA
+Óbidos; BELA VISTA
+Óbidos; SÃO FRANCISCO
+Óbidos; PERPÉTUO SOCORRO

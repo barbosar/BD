@@ -1,0 +1,3 @@
+Municípios; Bairros
+Santa Maria do Pará; CENTRO
+Santa Maria do Pará; ZONA RURAL

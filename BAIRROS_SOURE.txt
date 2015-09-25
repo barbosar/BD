@@ -1,0 +1,9 @@
+Município; Bairros
+Soure; Central
+Soure; São Pedro
+Soure; Macacheira
+Soure; Pacoval
+Soure; Umirizal
+Soure; Novo
+Soure; Matinha
+Soure; Tucumanaúba

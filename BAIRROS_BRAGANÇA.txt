@@ -1,0 +1,33 @@
+MUNICÍPIO; BAIRROS
+Bragança; ALDEIA
+Bragança; ALEGRE
+Bragança; BACURITEUA
+Bragança; CENTRO
+Bragança; CEREJA
+Bragança; JIQUIRI
+Bragança; MORRO
+Bragança; PADRE LUIZ
+Bragança; PERPÉTUO SOCORRO
+Bragança; RIOZINHO
+Bragança; SAMAUMAPARA
+Bragança; SÃO BENEDITO
+Bragança; TAÍRA
+Bragança; VILA NOVA
+Bragança; VILA SINHÁ
+Bragança; ALDEIA
+MUNICÍPIO; BAIRROS
+Bragança; ALEGRE
+Bragança; BACURITEUA
+Bragança; CENTRO 
+Bragança; CEREJA
+Bragança; JIQUIRI
+Bragança; MORRO
+Bragança; PADRE LUIZ
+Bragança; PERPÉTUO SOCORRO
+Bragança; RIOZINHO
+Bragança; SAMAUMAPARA
+Bragança; SÃO BENEDITO
+Bragança; TAÍRA
+Bragança; VILA NOVA
+Bragança; VILA SINHÁ
+

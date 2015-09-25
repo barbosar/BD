@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Ulianópolis; CENTRO
+Ulianópolis; ZONA RURAL

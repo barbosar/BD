@@ -1,0 +1,22 @@
+Município; Bairros
+Dom Eliseu; CENTRO
+Dom Eliseu; PDS
+Dom Eliseu; JARDIM PRIMAVERA
+Dom Eliseu; JARDIM AMÉRICA
+Dom Eliseu; ESPLANADA
+Dom Eliseu; JARDIM FLOR DO IPÊ
+Dom Eliseu; BOM JESUS
+Dom Eliseu; TROPICAL
+Dom Eliseu; PLANALTO
+Dom Eliseu; SÃO PAULO
+Dom Eliseu; BOM JARDIM
+Dom Eliseu; VITÓRIA
+Dom Eliseu; SETOR INDUSTRIAL
+Dom Eliseu; Nova Luanda
+Dom Eliseu; REDENÇÃO
+Dom Eliseu; BARTOLOMEU
+Dom Eliseu; ALVORADA
+Dom Eliseu; CHINESA
+Dom Eliseu; JARDIM DAS ACÁCIAS
+Dom Eliseu; ELDORADO
+Dom Eliseu; VITORIA REGIA

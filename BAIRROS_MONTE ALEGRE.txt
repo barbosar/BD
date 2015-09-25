@@ -1,0 +1,8 @@
+Município; Bairros
+Monte Alegre; CIDADE BAIXA
+Monte Alegre; CURAXI
+Monte Alegre; SERRA OCIDENTAL
+Monte Alegre; PAJUÇARA
+Monte Alegre; PAPAGAIO
+Monte Alegre; PLANALTO
+Monte Alegre; TURU

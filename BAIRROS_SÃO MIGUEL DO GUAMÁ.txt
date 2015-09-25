@@ -1,0 +1,3 @@
+MUNICÍPIOS; BAIRROS
+São Miguel do Guamá; CENTRO
+São Miguel do Guamá; ZONA RURAL

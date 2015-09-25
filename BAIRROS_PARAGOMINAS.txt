@@ -1,0 +1,3 @@
+Municípios; Bairros
+Paragominas; CENTRO
+Paragominas; ZONA RURAL

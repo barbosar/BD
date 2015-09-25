@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+Santa Cruz do Arari; CENTRO
+Santa Cruz do Arari; ZONA RURAL

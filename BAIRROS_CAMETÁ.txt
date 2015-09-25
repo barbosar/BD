@@ -1,0 +1,3 @@
+Municipios; Bairros
+Cametá; CENTRO
+Cametá; ZONA RURAL

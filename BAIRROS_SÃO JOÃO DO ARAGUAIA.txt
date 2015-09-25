@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+São João do Araguaia; CENTRO
+São João do Araguaia; ZONA RURAL

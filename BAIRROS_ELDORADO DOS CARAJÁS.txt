@@ -1,0 +1,3 @@
+Município; Bairros
+Eldorado dos Carajás; CENTRO
+Eldorado dos Carajás; ZONA RURAL

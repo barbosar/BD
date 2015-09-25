@@ -1,0 +1,3 @@
+MUNICÍPIO; BAIRROS
+São João de Pirabas; CENTRO
+São João de Pirabas; ZONA RURAL

@@ -1,0 +1,72 @@
+Município; Bairro
+Mosqueiro; AEROPORTO
+Mosqueiro; ARIRAMBA
+Mosqueiro; BAÍA DO SOL
+Mosqueiro; BONFIM
+Mosqueiro; CARANANDUBA
+Mosqueiro; CARUARA
+Mosqueiro; CHAPÉU-VIRADO
+Mosqueiro; FAROL
+Mosqueiro; MANGUEIRAS
+Mosqueiro; MARAHÚ
+Mosqueiro; MARACAJÁ
+Mosqueiro; MURUBIRA
+Mosqueiro; NATAL DO MURIBÍRA
+Mosqueiro; PARAÍSO
+Mosqueiro; PORTO ARTHUR
+Mosqueiro; PRAIA GRANDE
+Mosqueiro; SÃO FRANCISCO
+Mosqueiro; SUCURIJUQUARA
+Mosqueiro; VILA
+Outeiro; ÁGUA BOA
+Outeiro; BRASÍLIA
+Outeiro; ITAITEUA
+Outeiro; SÃO JOÃO DO OUTEIRO
+Belém; ÁGUAS LINDAS
+Belém; ÁGUAS NEGRAS
+Belém; AGULHA
+Belém; AURÁ
+Belém; BARREIRO
+Belém; BATISTA CAMPOS
+Belém; BENGUÍ
+Belém; CABANAGEM
+Belém; CAMPINA
+Belém; CAMPINA DE ICOARACÍ
+Belém; CANUDOS
+Belém; CASTANHEIRAS
+Belém; CIDADE VELHA
+Belém; CONDOR
+Belém; COQUEIRO
+Belém; CREMAÇÃO
+Belém; CRUZEIRO
+Belém; CURIÓ-UTINGA
+Belém; FÁTIMA
+Belém; GUAMÁ
+Belém; GUANABARA
+Belém; JURUNAS
+Belém; MANGUEIRÃO
+Belém; MARACACUERA
+Belém; MARACANGALHA
+Belém; MARAMBAIA
+Belém; MARCO
+Belém; MIRAMAR
+Belém; NAZARÉ
+Belém; PARACURÍ
+Belém; PARQUE GUAJARÁ
+Belém; PARQUE VERDE
+Belém; PEDREIRA
+Belém; PPONTA GROSSA
+Belém; PRATINHA
+Belém; REDUTO
+Belém; SACRAMENTA
+Belém; SÃO BRAZ
+Belém; SÃO CLEMENTE
+Belém; SOUZA
+Belém; TAPANÃ
+Belém; TELÉGRAFO
+Belém; TENONÉ
+Belém; TERRA FIRME
+Belém; UMARIZAL
+Belém; UNA
+Belém; UNIVERSITÁRIO
+Belém; VAL-DE-CÃES
